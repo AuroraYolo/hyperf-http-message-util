@@ -1,5 +1,2 @@
-# component-creater
-
-```
-composer create-project hyperf/component-creater
-```
+##Installation
+composer require narrowspark/http-message-util
